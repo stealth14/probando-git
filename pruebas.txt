@@ -2,3 +2,8 @@ commit inicial
 primer commit en dev
 primer commit en login
 primr commit en slider
+primer commit en areas
+primer commit en categorizacion_usuarios
+
+conexion a base de datos
+correcciones menores
