@@ -1,1 +1,4 @@
 commit inicial
+primer commit en dev
+primer commit en login
+primr commit en slider
